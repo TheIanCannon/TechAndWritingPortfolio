@@ -3,8 +3,7 @@
 ## _Table of Contents_ ##
 
 _All relevant documents are tagged with CONCEPT, REFERENCE, or TASK prefixes, having been written for DITA XML by way of oXygen XML Editor.
-More documents to be added as I go through my drafts developed as part of software user documentation, and potentially any notable material from publishing work.
-_
+More documents to be added as I go through my drafts developed as part of software user documentation, and potentially any notable material from publishing work._
 
 ### _Concept_ ###
 - DialogActs for Virtual Agent
