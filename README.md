@@ -1,3 +1,22 @@
-This folder contains a set of writing samples primarily from my work with ServiceNow, but may be updated to include other materials. 
-All relevant documents are tagged with CONCEPT, REFERENCE, or TASK prefixes, having been written for DITA XML by way of oXygen XML Editor.
-More documents to be added as I go through my drafts developed as part of user documentation with SN and any notable material from WO/Insight.
+# ***Tech Writing Portfolio*** #
+
+## _Table of Contents_ ##
+
+_All relevant documents are tagged with CONCEPT, REFERENCE, or TASK prefixes, having been written for DITA XML by way of oXygen XML Editor.
+More documents to be added as I go through my drafts developed as part of software user documentation, and potentially any notable material from publishing work.
+_
+
+### _Concept_ ###
+- DialogActs for Virtual Agent
+- Now Assist global navigation
+- Virtual Agent conversations
+
+### _Reference_ ###
+- AI Connector utility
+- AI Prompt
+- Virtual Agent Designer Topics page
+
+### _Task_ ###
+- Change the application scope for Virtual Agent Designer topics
+- Handle dynamic inputs in user testing
+- Integrate Virtual Agent with Google Chat
