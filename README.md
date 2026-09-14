@@ -5,7 +5,7 @@
 _All relevant documents are .DOCX drafts tagged with CONCEPT, REFERENCE, or TASK prefixes, having been written for DITA XML by way of oXygen XML Editor.
 More documents to be added as I go through my drafts developed as part of software user documentation, and potentially any notable material from publishing work under separate ToC section._
 
-(NOTE: Currently ToC lists raw file documents available in this repo; ETA TBD on converting into Markdown or other readable version along with raw files.)
+(NOTE: Currently ToC lists raw file documents available in this repo; Gradually converting DOCX files into MD.)
 
 ### _Concept_ ###
 - DialogActs for Virtual Agent
