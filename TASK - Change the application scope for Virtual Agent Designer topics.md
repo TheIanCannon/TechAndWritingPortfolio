@@ -20,7 +20,7 @@ If you have multiple topics open at once, each topic shows its scope on all its 
 
 2. Select **Application Scope**, then choose the appropriate scope for your conversations. For example, select **Workflow Studio**.
 
-### **Note:** If you're using domain separation, you can change the domain you're working in. Select **Domain scope: global** to change the domain. Any topics created within a domain are restricted to users of that domain. For more information, see _**Domain separation and Virtual Agent**_.
+**Note:** If you're using domain separation, you can change the domain you're working in. Select **Domain scope: global** to change the domain. Any topics created within a domain are restricted to users of that domain. For more information, see _**Domain separation and Virtual Agent**_.
 
 ## **Result**
 
