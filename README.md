@@ -18,6 +18,6 @@ More documents to be added as I go through my drafts developed as part of softwa
 - Virtual Agent Designer Topics page
 
 ### _Task_ ###
-- Change the application scope for Virtual Agent Designer topics
+- [Change the application scope for Virtual Agent Designer topics](https://github.com/TheIanCannon/TechAndWritingPortfolio/blob/main/TASK%20-%20Change%20the%20application%20scope%20for%20Virtual%20Agent%20Designer%20topics.md)
 - Handle dynamic inputs in user testing
 - Integrate Virtual Agent with Google Chat
