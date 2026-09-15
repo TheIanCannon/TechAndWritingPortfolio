@@ -11,9 +11,9 @@ Specify the flow action properties for the node that you want to create.
 | Node name | Name of the AI Connector node. |
 | Select custom skill | Open the drop-down menu to search for a custom skill. | 
 | Wait for response | Activate this toggle switch to wait for a response from the action before continuing the conversation. |
-| Input and Output mappings |
+| **Input and Output mappings** |
 | All input and output mappings are based on the custom skill you select. For more information on custom skills, see ***Now Assist SDK*** and ***Managing custom skills in Virtual Agent Designer***. |
-| Advanced |
+| **Advanced** |
 | Hide this node |
 | Conditionally show this node if | No-code condition statement or low-code script that specifies a condition for presenting this node in the conversation. The condition must evaluate to true. |
 
