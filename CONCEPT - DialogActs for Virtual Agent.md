@@ -23,7 +23,7 @@ Decision nodes can be modified by a condition or script to skip re-prompting by 
 
 ## Available DialogActs responses 
 
-The Vancouver release includes the following types of responses, stored in the _)open_nlu_dialog_act_ table: 
+The Vancouver release includes the following types of responses, stored in the _open_nlu_dialog_act_ table: 
 
 ### DialogActs response types 
 
