@@ -17,6 +17,6 @@ Specify the flow action properties for the node that you want to create.
 | Hide this node |
 | Conditionally show this node if | No-code condition statement or low-code script that specifies a condition for presenting this node in the conversation. The condition must evaluate to true. |
 
-| Example AI Connector utility controls | |
+## Example AI Connector utility controls 
 | ----------- | ----------- |
-| ![AI Connector utility with no skill selected. The utility functions only after you select a custom skill that includes a query.](https://github.com/TheIanCannon/TechAndWritingPortfolio/blob/main/portfolio%20images/AIConnector01.png) | ![AI Connector utility with Web Search skill selected. All input and output mappings derive from the custom skill.](https://github.com/TheIanCannon/TechAndWritingPortfolio/blob/main/portfolio%20images/AIConnector01.png) |
+| ![AI Connector utility with no skill selected. The utility functions only after you select a custom skill that includes a query.](https://github.com/TheIanCannon/TechAndWritingPortfolio/blob/main/portfolio%20images/AIConnector01.png)[_[AI Connector utility with no skill selected. The utility functions only after you select a custom skill that includes a query.]_] | ![AI Connector utility with Web Search skill selected. All input and output mappings derive from the custom skill.](https://github.com/TheIanCannon/TechAndWritingPortfolio/blob/main/portfolio%20images/AIConnector01.png)[_AI Connector utility with Web Search skill selected. All input and output mappings derive from the custom skill._] |
