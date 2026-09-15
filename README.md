@@ -13,7 +13,7 @@ More documents to be added as I go through my drafts developed as part of softwa
 - Virtual Agent conversations
 
 ### _Reference_ ###
-- AI Connector utility
+- [AI Connector utility](https://github.com/TheIanCannon/TechAndWritingPortfolio/blob/main/REFERENCE%20-%20AI%20Connector%20utility.md) ([DOCX version](https://github.com/TheIanCannon/TechAndWritingPortfolio/blob/main/DOCX%20versions/REFERENCE%20-%20AI%20Connector%20utility.docx))
 - AI Prompt
 - Virtual Agent Designer Topics page
 
