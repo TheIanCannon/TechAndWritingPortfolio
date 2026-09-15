@@ -12,7 +12,7 @@ When you open or create a topic, your current application scope displays in a st
 
 If you have multiple topics open at once, each topic shows its scope on all its tabs. All topics not set to the current scope are locked.
 
-![Topic opened to canvas view in Virtual Agent Designer, with Application scope highlighted. The topic unlocks for editing when you change application scope to match the topic.](https://github.com/TheIanCannon/TechAndWritingPortfolio/blob/main/portfolio%20images/AppScopeChange.png)
+![Topic opened to canvas view in Virtual Agent Designer, with Application scope highlighted. The topic unlocks for editing when you change application scope to match the topic.](https://github.com/TheIanCannon/TechAndWritingPortfolio/blob/main/portfolio%20images/AppScopeChange.png) [_Topic opened to canvas view in Virtual Agent Designer, with Application scope highlighted. The topic unlocks for editing when you change application scope to match the topic._]
 
 ## **Procedure**
 
