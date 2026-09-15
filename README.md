@@ -8,7 +8,7 @@ More documents to be added as I go through my drafts developed as part of softwa
 (NOTE: Currently ToC lists raw file documents available in this repo; Gradually converting DOCX files into MD.)
 
 ### _Concept_ ###
-- DialogActs for Virtual Agent
+- [DialogActs for Virtual Agent](https://github.com/TheIanCannon/TechAndWritingPortfolio/blob/main/CONCEPT%20-%20DialogActs%20for%20Virtual%20Agent.md)
 - Now Assist global navigation
 - Virtual Agent conversations
 
